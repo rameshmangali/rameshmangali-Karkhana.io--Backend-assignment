@@ -69,3 +69,10 @@ The Möbius strip is visualized using `matplotlib.pyplot.plot_surface()` as a sm
 You can view or download the detailed report here:
 
 👉 [📘 Mobius Strip Report (PDF)](MobiusStripReport.pdf)
+
+## 🎥 Screen Recording
+
+Watch the demonstration video here:
+
+👉 [Mobius Strip Assignment Demo (Google Drive)](https://drive.google.com/file/d/1fF96uLeWyhktrR8snQFqZpnIw55fsY9T/view?usp=sharing)
+
