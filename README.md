@@ -57,8 +57,6 @@ Surface area is estimated using differential geometry:
 | Surface Area   | ≈ 0.00003989  |
 | Edge Length    | ≈ 6.3216      |
 
----
-
 ## 📊 Visualization
 
 The Möbius strip is visualized using `matplotlib.pyplot.plot_surface()` as a smooth twisted surface with proper shading and 3D orientation.
@@ -66,3 +64,8 @@ The Möbius strip is visualized using `matplotlib.pyplot.plot_surface()` as a sm
 ![Mobius Strip Screenshot](mobiusStrip.png)
 
 
+## 📄 Report
+
+You can view or download the detailed report here:
+
+👉 [📘 Mobius Strip Report (PDF)](MobiusStripReport.pdf)
